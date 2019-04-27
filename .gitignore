@@ -10,7 +10,7 @@
 pubnub.config.json
 # production
 /build
-
+app1/
 # misc
 .DS_Store
 .env.local
