@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import MATRIX_FRAMES from "./data/matrix";
+import MATRIX_FRAMES from "../src/data/matrix";
 import { useDynamicTransition } from "./hooks";
 
 const minimumDelay = 10;

@@ -26,4 +26,4 @@ export const useDynamicTransition = ({ increment, delay, length }) => {
   }, [delay, increment, length]);
 
   return index;
-
+};

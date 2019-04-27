@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import PICTURES from "./data/pictures";
+import PICTURES from "../src/data/pictures";
 // import { useDynamicTransition } from "./hooks";
 
 const SECONDS = 1000;

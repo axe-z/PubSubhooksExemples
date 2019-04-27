@@ -7,7 +7,7 @@
 /A-Notes
 # testing
 /coverage
-
+pubnub.config.json
 # production
 /build
 
