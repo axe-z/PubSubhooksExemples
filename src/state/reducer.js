@@ -33,7 +33,7 @@ const reducer = (state, action) => {
     } else {
       //si existe PAS, initialise
       likeMap = {
-        // ...state.likeMap,
+        ...state.likeMap,
         [messageID]: [action.item]
       };
     }
